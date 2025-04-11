@@ -32,4 +32,4 @@ elif(ch==5):
 elif(ch==6):
     exit()
 else:
-    pritnt("Invalid input")
+    print("Invalid input")
